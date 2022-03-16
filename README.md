@@ -1,15 +1,15 @@
-# @hyperswarm/immutable-record
+# @web4/immutable-record
 
 Stateful Immutable record that can reannounce itself and more.
 
 ```
-npm install @hyperswarm/immutable-record
+npm install @web4/immutable-record
 ```
 
 ## Usage
 
 ``` js
-const ImmutableRecord = require('@hyperswarm/immutable-record')
+const ImmutableRecord = require('@web4/immutable-record')
 ```
 
 Inserting values in the DHT

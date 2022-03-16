@@ -1,4 +1,4 @@
-const dht = require('@hyperswarm/dht')
+const dht = require('@web4/dht')
 const ImmutableRecord = require('./')
 
 if (process.argv[2] === 'put') {

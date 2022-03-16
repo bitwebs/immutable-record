@@ -1,6 +1,6 @@
 {
-  "name": "@hyperswarm/immutable-record",
-  "version": "1.1.0",
+  "name": "@web4/immutable-record",
+  "version": "1.0.0",
   "description": "Stateful Immutable record that can reannounce itself and more",
   "main": "index.js",
   "dependencies": {
@@ -8,16 +8,16 @@
     "sodium-universal": "^3.0.3"
   },
   "devDependencies": {
-    "@hyperswarm/dht": "^4.0.1"
+    "@web4/dht": "^1.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hyperswarm/immutable-record.git"
+    "url": "https://github.com/bitwebs/immutable-record.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hyperswarm/immutable-record/issues"
+    "url": "https://github.com/bitwebs/immutable-record/issues"
   },
-  "homepage": "https://github.com/hyperswarm/immutable-record"
+  "homepage": "https://github.com/bitwebs/immutable-record"
 }
